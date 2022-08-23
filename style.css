@@ -1,0 +1,25 @@
+.row {
+    display: flex;
+}
+
+.row div {
+    background-color: cornflowerblue;
+}
+
+.col {
+    flex: 1;
+    padding: 1em;
+    margin: 1em;
+}
+
+.col-2 {
+    flex: 2;
+    padding: 1em;
+    margin: 1em;
+}
+
+.col-3 {
+    flex: 3;
+    padding: 1em;
+    margin: 1em;
+}
